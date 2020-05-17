@@ -1,0 +1,7 @@
+# Deno Typings
+lib.deno.d.ts
+
+# IDE
+.idea/
+
+
